@@ -6,3 +6,13 @@ function digitToWords(digit) {
     const words = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
     return words[digit];
 } 
+//(CSS) bootstrap, telwind, 
+//BACKEND: Node.js, Express, MongoDB, SQL, springboot, Django, Flask, FastAPI, GraphQL, REST API,PHP
+
+
+
+
+
+
+
+
