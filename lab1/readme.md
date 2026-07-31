@@ -16,3 +16,4 @@ Modern javascript is divided into 2 categories
 2. ModuleJS (.mjs) -> follow modular approach -> import
 - priority (Promise, nextTick, setImmediate/ setTimeout)
 
+
