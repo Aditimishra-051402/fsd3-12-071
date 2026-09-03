@@ -1,0 +1,25 @@
+{
+  "name": "fsd-12-071",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lab3/prg3.js",
+    "dev": "nodemon lab3/prg3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditimishra-051402/FSD-12-071.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Aditimishra-051402/FSD-12-071/issues"
+  },
+  "homepage": "https://github.com/Aditimishra-051402/FSD-12-071#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
